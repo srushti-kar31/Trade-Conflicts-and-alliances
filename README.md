@@ -1,7 +1,7 @@
 # Trade Conflicts and Alliances: How FTAs Are Reshaping Global Commerce
 
 ## 📌 Overview
-This project presents an in-depth analytical research study on the evolving dynamics of international trade, focusing on how Free Trade Agreements (FTAs) and tariff policies are reshaping global commerce. It evaluates the strategic shift from globalisation-led open trade towards modern protectionism, highlighting the geopolitical and economic implications for major economies, especially India.
+This project presents an analytical research report on the evolving dynamics of international trade, focusing on how Free Trade Agreements (FTAs) and tariff policies are reshaping global commerce. It evaluates the strategic shift from globalisation-led open trade towards modern protectionism, highlighting the geopolitical and economic implications for major economies, especially India.
 ---
 
 ## 🎯 Objectives
